@@ -1,0 +1,27 @@
+# Ignore compiled files
+*.class
+*.o
+*.pyc
+
+# Ignore build directories
+/build/
+/bin/
+
+# Ignore virtual environment directory
+/myenv
+
+# Ignore project directory
+/project
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.prod
+
+# Ignore sensitive information
+config.json
+credentials.json
+
+# Ignore dependencies
+/node_modules/
+/vendor/
