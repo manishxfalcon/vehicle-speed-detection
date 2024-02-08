@@ -1,0 +1,1 @@
+This project implements vehicle speed detection in a video using Python and computer vision libraries like OpenCV and dlib. It aims to detect and track vehicles in a video feed, estimate their speeds based on their motion, and visualize the results in real-time. The project can find applications in traffic monitoring, surveillance, and intelligent transportation systems
